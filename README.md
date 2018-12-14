@@ -4,6 +4,12 @@
 
 它适合想要找到关于TensorFlow的清晰简洁示例的初学者。 除了传统的“原始”TensorFlow实现，您还可以找到最新的TensorFlow API实践（例如`layers`,`estimator`,`datasets`)
 
+[联系译者](francis000cheng@gmail.com)
+
+[译者博客](https://francis0cheng.github.io/)
+
+[译者Bilibili](http://space.bilibili.com/150239294?)
+
 ## 教程目录
 
 #### 0 - Prerequisite
