@@ -1,1 +1,1 @@
-git add . & git commit -am "new" & git push
+gitbook init & git add . & git commit -am "new" & git push
