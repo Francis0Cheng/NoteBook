@@ -1,1 +1,1 @@
-git commit -am "new" & git push
+git add . & git commit -am "new" & git push
