@@ -9,4 +9,5 @@
 -----
 * 基础模型
     * [迭代决策树(Gradient Boosted Decision Tree)](GBDT.md)
+    * [K-Means](K-Means.md)
 
