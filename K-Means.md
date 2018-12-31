@@ -113,10 +113,6 @@ for i in range(len(idx)):
     counts[idx[i]] += mnist.train.labels[i]
 ```
 
-
-
-12. 将最多出现的标签分配给中心
-
 ```python
 labels_map = [np.argmax(c) for c in counts]
 labels_map = tf.convert_to_tensor(labels_map)
@@ -124,7 +120,7 @@ labels_map = tf.convert_to_tensor(labels_map)
 
 
 
-13.
+13.将最多出现的标签分配给中心
 
 ```python
 cluster_label = tf.nn.embedding_lookup(labels_map, cluster_idx)
